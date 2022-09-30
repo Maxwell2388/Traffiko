@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(176, 184, 184);
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+#img-1{
+    width: 100px;
+    height: 100px;
+}
+
+.btn {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-2{
+    background-color: blue;
+    color: rgb(162, 162, 170);
+}
+
+.div-2{
+    font-size: 20px;
+}
+
+#h1{
+    color: rgb(14, 100, 212);
+}
+
+.btn-3{
+    width: 100px;
+    background-color: blue;
+    color: antiquewhite;
+}
+
+.container-2{
+    background-color: rgb(172, 159, 143);
+    align-items: center;
+    justify-content: center;
+}
+
+.why{
+    color: rgb(7, 60, 121);
+    align-items: center;
+    margin-left: 500px;
+}
+.p {
+    margin-left: 480px;
+}
+
+.con-1{
+    background-color: antiquewhite;
+}
+
+.con-2{
+    background-color: antiquewhite;
+}
+
+.con-3{
+    background-color: antiquewhite;
+}
